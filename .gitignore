@@ -1,0 +1,18 @@
+# Eclipse workspace
+.metadata/
+
+# Eclipse project configuration
+.classpath
+.project
+.settings/
+
+# Compiled Java files
+bin/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
