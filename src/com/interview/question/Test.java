@@ -16,7 +16,7 @@ public class Test {
 		
 		System.out.println(a1);
 		
-		System.out.println("Git Pull Practice - Developer 1");
+		System.out.println("Hello from developer 2");
 		
 		System.out.println("Git Pull Practice - Developer 2");
 	}
